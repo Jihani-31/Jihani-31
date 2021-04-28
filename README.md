@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jihani Nanayakkara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning PHP,Java and MachineLearning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/jihani-nanayakkara
 
